@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Collar para perros",
+        "description": "Collar ajustable de nylon para perros de todos los tamaños",
+        "price": 52000,
+        "category": "Accesorios",
+        "inStock": true,
+        "imageURL": "src/assets/images/collar.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cama para gatos",
+        "description": "Cama suave y cómoda para gatos, lavable a máquina",
+        "price": 120000,
+        "category": "Muebles",
+        "inStock": true,
+        "imageURL": "src/assets/images/cama-gatos.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Juguete para perros",
+        "description": "Juguete de cuerda resistente para perros",
+        "price": 36000,
+        "category": "Juguetes",
+        "inStock": false,
+        "imageURL": "src/assets/images/juguete-perros.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Alimento para peces",
+        "description": "Alimento balanceado para peces tropicales",
+        "price": 24000,
+        "category": "Alimentos",
+        "inStock": true,
+        "imageURL": "src/assets/images/comida-peces.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Rascador para gatos",
+        "description": "Rascador de sisal con plataforma para gatos",
+        "price": 160000,
+        "category": "Muebles",
+        "inStock": true,
+        "imageURL": "src/assets/images/rasgador.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Correa retráctil",
+        "description": "Correa retráctil de 5 metros para perros medianos",
+        "price": 100000,
+        "category": "Accesorios",
+        "inStock": true,
+        "imageURL": "src/assets/images/correa-retractil.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Comedero automático",
+        "description": "Comedero automático programable para mascotas",
+        "price": 240000,
+        "category": "Alimentación",
+        "inStock": false,
+        "imageURL": "src/assets/images/comedero-automatico.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Shampoo para perros",
+        "description": "Shampoo hipoalergénico para perros de pelo sensible",
+        "price": 60000,
+        "category": "Cuidado",
+        "inStock": true,
+        "imageURL": "src/assets/images/shampoo.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Arena para gatos",
+        "description": "Arena aglomerante de fácil limpieza para gatos",
+        "price": 80000,
+        "category": "Higiene",
+        "inStock": true,
+        "imageURL": "src/assets/images/arena-gato.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Transportín para mascotas",
+        "description": "Transportín resistente y cómodo para viajes",
+        "price": 200000,
+        "category": "Viaje",
+        "inStock": true,
+        "imageURL": "src/assets/images/transportin.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Cepillo para perros",
+        "description": "Cepillo deslanador para perros de pelo largo",
+        "price": 64000,
+        "category": "Cuidado",
+        "inStock": true,
+        "imageURL": "src/assets/images/cepillo-perros.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Juguete interactivo para gatos",
+        "description": "Juguete con pelotas y mancuernas para entretener a tu gato",
+        "price": 52000,
+        "category": "Juguetes",
+        "inStock": true,
+        "imageURL": "src/assets/images/juguete-gato.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Arnés para perros",
+        "description": "Arnés ajustable y reflectante para paseos seguros",
+        "price": 92000,
+        "category": "Accesorios",
+        "inStock": false,
+        "imageURL": "src/assets/images/arnes-perro.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Acuario completo",
+        "description": "Kit de acuario de 20 litros con filtro y luz LED",
+        "price": 360000,
+        "category": "Hábitat",
+        "inStock": true,
+        "imageURL": "src/assets/images/acuario.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Snacks para perros",
+        "description": "Snacks naturales y saludables para perros",
+        "price": 32000,
+        "category": "Alimentos",
+        "inStock": true,
+        "imageURL": "src/assets/images/snack-perro.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Fuente de agua para mascotas",
+        "description": "Fuente de agua con filtro para mantener el agua fresca",
+        "price": 140000,
+        "category": "Alimentación",
+        "inStock": true,
+        "imageURL": "src/assets/images/fuente.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Ropa para perros",
+        "description": "Chaqueta impermeable para perros pequeños y medianos",
+        "price": 80000,
+        "category": "Ropa",
+        "inStock": true,
+        "imageURL": "src/assets/images/ropa-perro.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Cortauñas para mascotas",
+        "description": "Cortauñas seguro y fácil de usar para perros y gatos",
+        "price": 40000,
+        "category": "Cuidado",
+        "inStock": false,
+        "imageURL": "src/assets/images/cortauñas.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Jaula para hámster",
+        "description": "Jaula espaciosa con accesorios para hámsters",
+        "price": 180000,
+        "category": "Hábitat",
+        "inStock": true,
+        "imageURL": "src/assets/images/jaula-hamster.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Peine para gatos",
+        "description": "Peine suave para eliminar nudos y pelo muerto en gatos",
+        "price": 48000,
+        "category": "Cuidado",
+        "inStock": true,
+        "imageURL": "src/assets/images/peine-gato.jpg"
+    }
+]

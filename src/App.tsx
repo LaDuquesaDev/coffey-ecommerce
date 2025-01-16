@@ -1,25 +1,17 @@
 import React from "react";
+import { ThemeProvider, createTheme, CssBaseline } from "@mui/material";
+import { ProductProvider } from "./context/ProductProvider";
+import { ProductCatalog } from "./components/ProductCatalog";
+import { theme } from "./theme";
 
-const App: React.FC = () => {
+const App = () => {
   return (
-    <div style={{ padding: "20px", fontFamily: "Arial, sans-serif" }}>
-      <h1>Bienvenido a Coffey Ecommerce</h1>
-      <p>¡Comienza a desarrollar tu tienda online con React y TypeScript!</p>
-      <button
-        style={{
-          padding: "10px 20px",
-          fontSize: "16px",
-          backgroundColor: "#007BFF",
-          color: "#fff",
-          border: "none",
-          borderRadius: "5px",
-          cursor: "pointer",
-        }}
-        onClick={() => alert("¡Bienvenido a Coffey Ecommerce!")}
-      >
-        Haz clic aquí
-      </button>
-    </div>
+    <ThemeProvider theme={theme}>
+      <CssBaseline />
+      <ProductProvider>
+        <ProductCatalog />
+      </ProductProvider>
+    </ThemeProvider>
   );
 };
 
