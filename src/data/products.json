@@ -6,7 +6,7 @@
         "price": 52000,
         "category": "Accesorios",
         "inStock": true,
-        "imageURL": "public/assets/images/collar.jpg"
+        "imageURL": "assets/images/collar.jpg"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "price": 120000,
         "category": "Muebles",
         "inStock": true,
-        "imageURL": "public/assets/images/cama-gatos.jpg"
+        "imageURL": "assets/images/cama-gatos.jpg"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "price": 36000,
         "category": "Juguetes",
         "inStock": false,
-        "imageURL": "public/assets/images/juguete-perros.jpg"
+        "imageURL": "assets/images/juguete-perros.jpg"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "price": 24000,
         "category": "Alimentos",
         "inStock": true,
-        "imageURL": "public/assets/images/comida-peces.jpg"
+        "imageURL": "assets/images/comida-peces.jpg"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "price": 160000,
         "category": "Muebles",
         "inStock": true,
-        "imageURL": "public/assets/images/rasgador.jpg"
+        "imageURL": "assets/images/rasgador.jpg"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "price": 100000,
         "category": "Accesorios",
         "inStock": true,
-        "imageURL": "public/assets/images/correa-retractil.jpg"
+        "imageURL": "assets/images/correa-retractil.jpg"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "price": 240000,
         "category": "Alimentación",
         "inStock": false,
-        "imageURL": "public/assets/images/comedero-automatico.jpg"
+        "imageURL": "assets/images/comedero-automatico.jpg"
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "price": 60000,
         "category": "Cuidado",
         "inStock": true,
-        "imageURL": "public/assets/images/shampoo.jpg"
+        "imageURL": "assets/images/shampoo.jpg"
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "price": 80000,
         "category": "Higiene",
         "inStock": true,
-        "imageURL": "public/assets/images/arena-gato.jpg"
+        "imageURL": "assets/images/arena-gato.jpg"
     },
     {
         "id": 10,
@@ -87,7 +87,7 @@
         "price": 200000,
         "category": "Viaje",
         "inStock": true,
-        "imageURL": "public/assets/images/transportin.jpg"
+        "imageURL": "assets/images/transportin.jpg"
     },
     {
         "id": 11,
@@ -96,7 +96,7 @@
         "price": 64000,
         "category": "Cuidado",
         "inStock": true,
-        "imageURL": "public/assets/images/cepillo-perros.jpg"
+        "imageURL": "assets/images/cepillo-perros.jpg"
     },
     {
         "id": 12,
@@ -105,7 +105,7 @@
         "price": 52000,
         "category": "Juguetes",
         "inStock": true,
-        "imageURL": "public/assets/images/juguete-gato.jpg"
+        "imageURL": "assets/images/juguete-gato.jpg"
     },
     {
         "id": 13,
@@ -114,7 +114,7 @@
         "price": 92000,
         "category": "Accesorios",
         "inStock": false,
-        "imageURL": "public/assets/images/arnes-perro.jpg"
+        "imageURL": "assets/images/arnes-perro.jpg"
     },
     {
         "id": 14,
@@ -123,7 +123,7 @@
         "price": 360000,
         "category": "Hábitat",
         "inStock": true,
-        "imageURL": "public/assets/images/acuario.jpg"
+        "imageURL": "assets/images/acuario.jpg"
     },
     {
         "id": 15,
@@ -132,7 +132,7 @@
         "price": 32000,
         "category": "Alimentos",
         "inStock": true,
-        "imageURL": "public/assets/images/snack-perro.jpg"
+        "imageURL": "assets/images/snack-perro.jpg"
     },
     {
         "id": 16,
@@ -141,7 +141,7 @@
         "price": 140000,
         "category": "Alimentación",
         "inStock": true,
-        "imageURL": "public/assets/images/fuente.jpg"
+        "imageURL": "assets/images/fuente.jpg"
     },
     {
         "id": 17,
@@ -150,7 +150,7 @@
         "price": 80000,
         "category": "Ropa",
         "inStock": true,
-        "imageURL": "public/assets/images/ropa-perro.jpg"
+        "imageURL": "assets/images/ropa-perro.jpg"
     },
     {
         "id": 18,
@@ -159,7 +159,7 @@
         "price": 40000,
         "category": "Cuidado",
         "inStock": false,
-        "imageURL": "public/assets/images/cortauñas.jpg"
+        "imageURL": "assets/images/cortauñas.jpg"
     },
     {
         "id": 19,
@@ -168,7 +168,7 @@
         "price": 180000,
         "category": "Hábitat",
         "inStock": true,
-        "imageURL": "public/assets/images/jaula-hamster.jpg"
+        "imageURL": "assets/images/jaula-hamster.jpg"
     },
     {
         "id": 20,
@@ -177,6 +177,6 @@
         "price": 48000,
         "category": "Cuidado",
         "inStock": true,
-        "imageURL": "public/assets/images/peine-gato.jpg"
+        "imageURL": "assets/images/peine-gato.jpg"
     }
 ]
